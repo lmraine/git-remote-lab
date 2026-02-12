@@ -1,1 +1,1 @@
-print("My favorite restaurant is Sushi Thai.")
+print('LR: confirm correct branch and push')
